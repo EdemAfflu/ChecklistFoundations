@@ -1,0 +1,8 @@
+package com.company.strategypattern.exampleone;
+
+public class CanCode implements ICode{
+    @Override
+    public String canCode() {
+        return "can code";
+    }
+}

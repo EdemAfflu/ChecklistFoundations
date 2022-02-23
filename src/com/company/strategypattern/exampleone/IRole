@@ -1,0 +1,5 @@
+package com.company.strategypattern.exampleone;
+
+public interface IRole {
+    public String role();
+}
