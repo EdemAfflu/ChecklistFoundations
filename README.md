@@ -1,4 +1,4 @@
-# FGoalTracker
+# ChecklistFoundations
 
 ## 1. Solid Principles.  
 ####   1.1. [Single Responsibility Principle](https://github.com/EdemAfflu/FoundationsChecklist/tree/main/src/com/company/singleresponsibility)
